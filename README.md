@@ -4,4 +4,4 @@ Autistic children and non-verbal children alike face many issues in communicatin
 
 The model is currently trained on the [**ReCANVo**](https://zenodo.org/record/5786860#.Y6aD1ezMIqw) dataset by Dr. Kristy Johnson and Dr. Jaya Narain. ReCANVo was used for a similar use case in the **COMMALLA** project at MIT Media Lab, aiming to classify non-verbal vocal cues. This project will take different approaches to see how the model can be 1) improved and 2) deployed onto small devices for classroom setting usage.
 
-More updates on training and setup will be posted as the project continues. 
+All ReCANVo audio is available [**here**](https://drive.google.com/drive/folders/1aZet2S7qLeoCNbPpp8ACZePLY9Wou0jJ?usp=sharing). 
